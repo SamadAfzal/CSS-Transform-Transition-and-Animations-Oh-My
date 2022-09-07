@@ -1,1 +1,10 @@
-
+button {
+    background-color: ghostwhite;
+    transition: all 500ms;
+    border-radius: 2px;
+    transition-duration: 2s;
+}
+button:hover {
+    background-color: dodgerblue;
+    border-radius: 2px;
+}
